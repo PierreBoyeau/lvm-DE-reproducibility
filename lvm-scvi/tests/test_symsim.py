@@ -56,7 +56,7 @@ N_SAMPLES = 30000
 N_LATENT = 50
 PIN_MEMORY = False
 USE_BATCH_NORM = False
-PATH_TO_SCRIPTS = "/data/yosef2/users/pierreboyeau/conquer_comparison/scripts"
+PATH_TO_SCRIPTS = "/home/pierre/lvm-DE-reproducibility/conquer_comparison/scripts"
 DIR_PATH = "lfc_estimates_new/symsim_bimod_fairE_{}{}{}".format(
     N_CELLS_QUERY, OFFSET, DELTA
 )

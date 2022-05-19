@@ -3,10 +3,10 @@ Name: power-spherical
 Version: 0.1.0
 Summary: Pytorch implementation of the Power Spherical distribution
 Home-page: https://nicola-decao.github.io
-Download-URL: https://github.com/nicola-decao/power_spherical
 Author: Nicola De Cao
 Author-email: nicola.decao@gmail.com
 License: MIT
+Download-URL: https://github.com/nicola-decao/power_spherical
 Keywords: pytorch machine-learning deep-learning manifold-learning
 Platform: UNKNOWN
 License-File: LICENSE
