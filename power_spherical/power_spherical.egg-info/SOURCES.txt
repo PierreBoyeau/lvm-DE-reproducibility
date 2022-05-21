@@ -1,0 +1,14 @@
+LICENSE
+README.md
+example.ipynb
+setup.py
+power_spherical/__init__.py
+power_spherical/distributions.py
+power_spherical.egg-info/PKG-INFO
+power_spherical.egg-info/SOURCES.txt
+power_spherical.egg-info/dependency_links.txt
+power_spherical.egg-info/requires.txt
+power_spherical.egg-info/top_level.txt
+power_spherical/__pycache__/__init__.cpython-36.pyc
+power_spherical/__pycache__/distributions.cpython-36.pyc
+power_spherical/__pycache__/transformations.cpython-36.pyc
